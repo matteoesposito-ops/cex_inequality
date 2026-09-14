@@ -1,0 +1,21 @@
+.DS_Store
+*.stswp
+*.lnk
+
+# CEX data
+data/
+
+# MS dataset
+all_cons_data_for_stata_80_17.dta
+ms_cleaned.dta
+ms_vflow_09_12.dta
+
+# 2010 cleaned dataset
+fmly_2010.dta
+
+# 1960 cleaned dataset
+cex_1960_clean.dta
+
+# 1935 cleaned datasets
+cex_1935_import.dta
+cex_1935_clean.dta
