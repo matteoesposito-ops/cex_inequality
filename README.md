@@ -38,4 +38,4 @@ data.
 
 Finally, in the `final code` folder you'll find what we opted for in the final
 work, containing only the 1960 and 2010 waves and a `main`. The output is in
-`clean output`.
+`final output`.
