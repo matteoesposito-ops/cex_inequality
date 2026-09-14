@@ -3,9 +3,6 @@
 if "`c(username)'" == "matte" {
     global root "C:\Users\matte\OneDrive\SciencesPo\Axelle\CEX\1960-expenditures"
 }
-else if "`c(username)'" == "philippgruebener" {
-    global root "/Users/philippgruebener/Library/CloudStorage/Dropbox/Projects_OwnFolders/FGS_Own/Data/CEX"
-}
 else {
     display as error "globalpaths.do: username '`c(username)'' not recognised. Add your entry."
     exit 1
